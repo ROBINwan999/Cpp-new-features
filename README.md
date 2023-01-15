@@ -1,7 +1,7 @@
 # Cpp-new-features
-包括C++ 11 14 17等各种语言和库新特性
+关于C++ 11 14 17的各种新特性
 
-快速抵达↓↓↓
+↓↓↓快速直通车↓↓↓
 
 [C++11](https://github.com/ROBINwan999/Cpp-new-features/blob/main/C%2B%2B11/index.md)
 
