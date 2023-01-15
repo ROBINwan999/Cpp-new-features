@@ -98,3 +98,9 @@ auto sum(int b, int b) {
 `auto`和`decltype`虽然都是用于自动类型推导的，但是`auto`的推导规则更为复杂，有时候会改变表达式的原始类型，而`decltype`比较纯粹，一般会保留原值表达式的类型，让推导的结果更加自然。
 
 通常使用`auto`和`decltype`来帮助编写模板库，另外`auto`被更多的用于复杂类型的自动推断，降低程序员的心智负担
+
+# 源代码
+
+[auto.cpp](https://github.com/ROBINwan999/Cpp-new-features/blob/main/C%2B%2B11/auto%20and%20decltype/auto.cpp)
+
+[decltype.cpp](https://github.com/ROBINwan999/Cpp-new-features/blob/main/C%2B%2B11/auto%20and%20decltype/decltype.cpp)
